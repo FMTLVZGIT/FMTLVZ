@@ -51,29 +51,16 @@ global.emoji4 = '✨'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
-global.wait = '🧸 Eʂρҽɾҽ υɳ ɱσɱҽɳƚσ...'
-global.waitt = '🧸 Eʂρҽɾҽ υɳ ɱσɱҽɳƚσ...'
-global.waittt = '🧸 Eʂρҽɾҽ υɳ ɱσɱҽɳƚσ...'
-global.waitttt = '🧸 Eʂρҽɾҽ υɳ ɱσɱҽɳƚσ...'
+global.wait = '🇩🇪 Eʂρҽɾҽ υɳ ɱσɱҽɳƚσ...'
+global.waitt = '🇩🇪 Eʂρҽɾҽ υɳ ɱσɱҽɳƚσ...'
+global.waittt = '🇩🇪 Eʂρҽɾҽ υɳ ɱσɱҽɳƚσ...'
+global.waitttt = '🇩🇪 Eʂρҽɾҽ υɳ ɱσɱҽɳƚσ...'
 
 //Enlaces
 var canal = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A'  
-var canal2 = 'https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z'
 var git = 'https://github.com/@fmtlvz_' 
-var youtube = 'https://www.youtube.com/@@fmtlvz_' 
-var github = 'https://github.com/@fmtlvz_/𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭'  
-var panel = 'https://panel.skyultraplus.com'
-var dash = 'https://dash.skyultraplus.com'
-var tienda = 'https://dash.skyultraplus.com/store'
-var status = 'https://estado.skyultraplus.com'
-var discord = 'https://discord.com/invite/T7ksHu7mkz'
-var paypal = 'https://paypal.me/kevintomasolazo23'
-let tiktok = 'https://tiktok.com/@ian.ian271'
-let correo = 'alejandroxddd92@gmail.com'
 
-global.redes = [canal, canal2, git, youtube, github, panel, dash, tienda, status, discord, paypal, tiktok, correo].getRandom()
-
-global.redeshost = [panel, dash, tienda, status, discord, paypal].getRandom()
+global.redes = [canal, git,].getRandom()
 
 //Imagen
 let category = "imagen"
@@ -104,9 +91,9 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://qu.ax/HHXnW.jpg',
-'https://qu.ax/RilnK.jpg',
-'https://qu.ax/TcfhE.jpg'
+'https://qu.ax/gUMgG.jpg',
+'https://qu.ax/gUMgG.jpg',
+'https://qu.ax/gUMgG.jpg'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363328543445677@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: namebot, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
