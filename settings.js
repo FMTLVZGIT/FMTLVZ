@@ -64,10 +64,7 @@ global.grupo = 'https://chat.whatsapp.com/KiJY7gZS17aLcP6qaGatFX'
 global.grupo2 = 'https://chat.whatsapp.com/JJGQs5aCsTsAsHbw752fBv'
 global.grupo3 = 'https://chat.whatsapp.com/G2bAsa8E11mLLitGxI0iUQ'
 global.channel = 'https://whatsapp.com/channel/0029Var8RPA4Y9ltHjFozB3k'
-global.md = 'https://github.com/@fmtlvz_/𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭' 
-global.yt = 'https://www.youtube.com/@ianalejandrook14x'
-global.tiktok = 'https://tiktok.com/@ian.ian271'
-global.correo = 'alejandroxddd92@gmail.com'
+global.md = 'https://github.com/FMTLVZGIT'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
