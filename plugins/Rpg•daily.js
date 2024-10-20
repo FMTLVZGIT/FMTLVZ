@@ -17,7 +17,7 @@ conn.reply(m.chat, `🎁 *Recompensa Diaria*
 Recursos:
 ✨ Xp : *+${isPrems ? exppremium : exp}*
 💎 Diamantes : *+${d}*
-🪙 𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭Coins : *+${coin}*`, m, )
+🪙 Coins : *+${coin}*`, m, )
 
 global.db.data.users[m.sender].lastclaim = new Date * 1
 
