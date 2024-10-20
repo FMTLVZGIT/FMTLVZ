@@ -44,8 +44,8 @@ global.packname = '𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭
 global.botname = '𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭 - MD 🇩🇪'
 global.wm = '𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭Bσƚ-MD 🇩🇪'
 global.author = 'By @fmtlvz_'
-global.dev = 'Pσɯҽɾҽԃ Bყ Tҽαɱ Sԋιɳιɳɠ'
-global.textbot = '𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭 : ιαɳαʅҽʝαɳԃɾσσƙ15x 🇩🇪'
+global.dev = 'By @fmtlvz_'
+global.textbot = '𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭 : By @fmtlvz_x 🇩🇪'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
