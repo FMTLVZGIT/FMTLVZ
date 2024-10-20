@@ -1,5 +1,5 @@
 {
-"name": "𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭",
+"name": "𝗙𝗠𝗧𝗟𝗩𝗭",
 "version": "2.0.7",
 "description": "Simple WhatsApp Bot Multi Device",
 "main": "index.js",
@@ -18,7 +18,7 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/@fmtlvz_/𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭",
+"homepage": "https://github.com/FMTLVZGIT",
 "author": {
 "name": "@fmtlvz_"
 },
@@ -30,10 +30,10 @@
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/@fmtlvz_/𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭.git"
+"url": "git+https://github.com/https://github.com/FMTLVZGIT.git"
 },
 "bugs": {
-"url": "https://github.com/@fmtlvz_/𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭/issues"
+"url": "https://github.com/https://github.com/FMTLVZGIT/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
