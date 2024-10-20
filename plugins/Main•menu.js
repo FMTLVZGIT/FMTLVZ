@@ -30,9 +30,8 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
     m.react("🇩🇪");
     let menu = ``;
 
-    let txt =  `Hσʅα ! Sσყ 𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭 𝗙𝗠𝗧𝗟𝗩𝗭, ρҽɾʂσɳιƚα ʅιɳԃα αϙυι ƚιҽɳҽʂ ɱι ɱҽɳυ`
-txt+= '.͜°˖ `ᴄʀᴇᴀᴅᴏʀ ::`' + ` Iαɳ\n`;
-txt+= '.͜°˖ `ʙᴏᴛ ::`' + ` 𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭Bσƚ-MD;
+    let txt =  `Hσʅα ! Sσყ 𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭`
+txt+= '.͜°˖ `ʙᴏᴛ ::`' + ` 𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭;
 txt+= '.͜°˖ `ꜰᴇᴄʜᴀ ::`' + ` ${moment.tz('America/Bogota').format('DD/MM/YY')}\n`;
 txt+= '.͜°˖ `ᴘᴀɪs ::`' + ` ${userNationality}\n`;
 txt+= '.͜°˖ `ᴘʀᴇꜰɪᴊᴏ ::`' + ` 「 ${usedPrefix} 」\n`;
@@ -44,7 +43,7 @@ txt+= "✬✭✰✬"
     let listSections = [];
 
         listSections.push({
-        title: `SELECCIÓNA LO QUE NECESITES`, highlight_label: `Popular 𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭Bot`,
+        title: `SELECCIÓNA LO QUE NECESITES`, highlight_label: `Popular 𝝨𝗫𝘾𔗁 𝘽㊮𝙏ㅤ⁝ㅤ𝗙𝗠𝗧𝗟𝗩𝗭`,
         rows: [
             {
                 header: "Aυƚσ Vҽɾιϝιƈαɾ ╎🇩🇪",
@@ -63,12 +62,6 @@ txt+= "✬✭✰✬"
                 title: "",
                 description: `🇩🇪 Muestra el github de la bot.`,
                 id: `#sc`,
-            },
-            {
-                header: "Sƙყ Uʅƚɾα Pʅυʂ ╎ 💸",
-                title: "",
-                description: `⚡️ Super hosting, Sky Ultra Plus.`,
-                id: `#skyplus`,
             },
             {
                 header: "Sρҽҽԃ ╎ 🇩🇪",
@@ -103,9 +96,9 @@ txt+= "✬✭✰✬"
         ],
     });
 
-    let vid = "https://qu.ax/lHgv.mp4";
-    let img = "https://qu.ax/DwRoz.jpg";
-    let img2 = "https://qu.ax/HHXnW.jpg";
+    let vid = "https://qu.ax/ROKWl.mp4";
+    let img = "https://qu.ax/gUMgG.jpg";
+    let img2 = "https://qu.ax/gUMgG.jpg";
 
     await conn.sendListB(m.chat, menu, txt, `*ೃ༄ Mҽɳυ 🇩🇪 ೄྀ࿐⁩`, [vid, img, img2].getRandom(), listSections, esti);
 };
